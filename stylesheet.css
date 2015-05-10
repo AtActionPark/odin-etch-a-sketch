@@ -1,0 +1,23 @@
+*{
+
+}
+
+#container{
+	position:relative;
+	left:20px;
+	top:20px;
+	height:480px;
+	width:480px;
+	border: 2px solid red;
+}
+
+.square {
+	float:left;
+	background-color: rgba(0,0,0,1);
+}
+
+button{
+position:relative;
+	left:20px;
+	top:10px;
+}
